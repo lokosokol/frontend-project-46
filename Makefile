@@ -1,8 +1,5 @@
-install: install-deps
-	npx simple-git-hooks
-
-install-deps:
-	npm ci
+install:
+	  npm ci
 
 publish:
 	npm publish --dry-run
