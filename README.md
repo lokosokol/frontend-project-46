@@ -2,6 +2,8 @@
 
 [![Actions Status](https://github.com/lokosokol/frontend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/lokosokol/frontend-project-46/actions)
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/1610640a92e949dc05ee/maintainability)](https://codeclimate.com/github/lokosokol/frontend-project-46/maintainability)
+
 ### System requirements
 
 Node 14 or higher<br />
